@@ -1,5 +1,15 @@
 {
   "links": [
+	{
+      "name": "Phone",
+      "url": "tel:+918780903006",
+      "image": "images/social/call2.svg"
+    },
+	{
+      "name": "Whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=+918780903006",
+      "image": "images/social/whatsapp.svg"
+    },
     {
       "name": "Instagram",
       "url": "https://instagram.com/sckad_cad",
@@ -19,16 +29,6 @@
       "name": "Mail",
       "url": "mailto:sckadtech@gmail.com",
       "image": "images/social/email.svg"
-    },
-    {
-      "name": "Whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=+918780903006",
-      "image": "images/social/whatsapp.svg"
-    },
-    {
-      "name": "Phone",
-      "url": "tel:+918780903006",
-      "image": "images/social/call2.svg"
     },
 	{
       "name": "YouTube",
