@@ -27,7 +27,7 @@
     },
     {
       "name": "Phone",
-      "url": <a href="tel:+918780903006">,
+      "onClick": "window.open('tel:+84935002102')",
       "image": "images/social/call2.svg"
     },
 	{
