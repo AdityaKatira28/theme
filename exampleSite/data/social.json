@@ -23,7 +23,7 @@
     },
     {
       "name": "Whatsapp",
-      "url": "8780903006",
+      "url": "https://api.whatsapp.com/send?phone=8780903006",
       "image": "images/social/whatsapp.svg"
     },
     {
