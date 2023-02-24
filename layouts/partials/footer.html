@@ -7,6 +7,7 @@
           <img src="{{ .image | relURL }}" width="24" height="24" alt="{{ .name }}"/>
         </a>
       </span>
+	  {{ partial "share.html" . }}
     {{ end }}
   </div>
   {{ end }}
