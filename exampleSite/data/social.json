@@ -33,7 +33,7 @@
     },
 	{
       "name": "Phone",
-      "url": "tel:+1234567890",
+      "url": "https://tel:+1234567890",
       "image": "images/social/call2.svg"
     }
   ]
