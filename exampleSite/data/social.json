@@ -34,15 +34,6 @@
       "name": "Instagram",
       "url": "",
       "image": "images/social/instagram.svg"
-    },
-    {
-      "name": "Share",
-	  "platform": "_blank",
-	  "url": "https://sckad.com",
-      "quote": "Check out this cool website!",
-      "hashtag": "#webdesign"
-      "image": "images/social/Share.svg"
     }
-	
   ]
 }
