@@ -4,8 +4,8 @@ image: images/writer.jpeg
 url: "services"
 menu:
   main:
-    name: "services"
-    weight: 4
+    name: "Services"
+    weight: 2
 ---
 
 ## Contra vagos
