@@ -2,18 +2,47 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
-      "image": "images/social/github.svg"
+      "name": "YouTube",
+      "url": "",
+      "image": "images/social/youtube.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/in/shubham-kadecha-8553b2131",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "Facebook",
+      "url": "",
+      "image": "images/social/fb.svg"
+    },
+    {
+      "name": "Mail",
+      "url": "mailto:sckadtech@gmail.com",
+      "image": "images/social/email.svg"
+    },
+    {
+      "name": "Whatsapp",
+      "url": "",
+      "image": "images/social/whatsapp.svg"
+    },
+    {
+      "name": "Instagram",
+      "url": "",
+      "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "Share",
+	  "platform": "_blank",
+	  "url": "https://sckad.com",
+      "quote": "Check out this cool website!",
+      "hashtag": "#webdesign"
+      "image": "images/social/Share.svg"
     }
+	
   ]
 }
