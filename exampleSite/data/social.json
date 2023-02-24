@@ -27,7 +27,7 @@
     },
     {
       "name": "Phone",
-      "onClick": "window.open('tel:+84935002102')",
+      "safeUrl": "tel:+918780903006",
       "image": "images/social/call2.svg"
     },
 	{
