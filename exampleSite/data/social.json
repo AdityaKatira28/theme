@@ -30,6 +30,11 @@
       "name": "Instagram",
       "url": "https://instagram.com/sckad_cad",
       "image": "images/social/instagram.svg"
+    },
+	{
+      "name": "Phone",
+      "url": "tel:+918780903006",
+      "image": "images/social/call.svg"
     }
   ]
 }
