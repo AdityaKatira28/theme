@@ -38,7 +38,7 @@
 	,
 	{
       "name": "Share",
-      "onclick":"window.open('https://www.sckad.com/share?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank'); return false;",
+      "onclick": "window.open('https://www.sckad.com/share?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank')",
       "image": "images/social/share.svg"
     }
   ]
