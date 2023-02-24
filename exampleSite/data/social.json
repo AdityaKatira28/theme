@@ -1,13 +1,9 @@
 {
   "links": [
-    {
-      "name": "twitter",
-      "url": "",
-      "image": "images/social/twitter.svg"
-    },
+    
     {
       "name": "YouTube",
-      "url": "",
+      "url": "https://youtube.com/@sckadcadservices6608",
       "image": "images/social/youtube.svg"
     },
     {
@@ -17,7 +13,7 @@
     },
     {
       "name": "Facebook",
-      "url": "",
+      "url": "https://www.facebook.com/SCKad111",
       "image": "images/social/fb.svg"
     },
     {
@@ -27,12 +23,12 @@
     },
     {
       "name": "Whatsapp",
-      "url": "",
+      "url": "8780903006",
       "image": "images/social/whatsapp.svg"
     },
     {
       "name": "Instagram",
-      "url": "",
+      "url": "https://instagram.com/sckad_cad",
       "image": "images/social/instagram.svg"
     }
   ]
