@@ -1,6 +1,6 @@
 {{ range .links }}
+	{{ .name }}
   <a href="{{ .url | safeURL }}">
     <img src="{{ .image }}">
-    {{ .name }}
   </a>
 {{ end }}
