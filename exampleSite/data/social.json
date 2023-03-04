@@ -38,7 +38,7 @@
 	,
 	{
       "name": "Share",
-      "url": "window.open('whatsapp://send?text= https://www.youtube.com/watch?v=ohpCMpderow')",
+      "url": "window.open('whatsapp://send?text= https://www.sckad.com/')",
       "image": "images/social/share.svg"
     }
   ]
