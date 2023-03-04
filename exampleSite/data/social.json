@@ -37,20 +37,10 @@
     }
 	,
 	{
-  "title": "My Awesome Blog",
-  "description": "This is my awesome blog about all kinds of things!",
-  "share": {
-    "twitter": {
-      "url": "https://twitter.com/intent/tweet?url=https://www.example.com&text=My+Awesome+Blog"
+      "name": "Share",
+      "onclick": "<a href=whatsapp://send?text=The text to share! data-action=share/whatsapp/share>Share via Whatsapp</a>",
+      "image": "images/social/share.svg"
     },
-    "facebook": {
-      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.example.com"
-    },
-    "linkedin": {
-      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.example.com&title=My+Awesome+Blog&summary=This+is+my+awesome+blog+about+all+kinds+of+things!"
-    }
-  }
-}
 
 
   ]
