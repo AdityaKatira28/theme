@@ -35,11 +35,5 @@
       "url": "https://youtube.com/@sckadcadservices6608",
       "image": "images/social/youtube.svg"
     }
-	,
-	{
-      "name": "Share",
-      "url": "onclick=window.open('whatsapp://send?text= https://www.sckad.com/')",
-      "image": "images/social/share.svg"
-    }
   ]
 }
