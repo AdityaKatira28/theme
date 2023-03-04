@@ -38,7 +38,7 @@
 	,
 	{
       "name": "Share",
-      "onclick": "<a href=whatsapp://send?text=The text to share! data-action=share/whatsapp/share>Share via Whatsapp</a>",
+      "href": "whatsapp://send?text=http://www.sckad.com"
       "image": "images/social/share.svg"
     },
 
