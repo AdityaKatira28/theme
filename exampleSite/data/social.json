@@ -37,11 +37,6 @@
     }
 	,
 	{
-      "name": "Share",
-      "onclick": "share()",
-      "image": "images/social/share.svg"
-    },
-	{
 	  "name": "Share",
       
       "image": "images/social/share.svg"
