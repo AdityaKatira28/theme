@@ -3,7 +3,7 @@
 	{
       "name": "Phone",
       "url": "tel:+918780903006",
-      "image": "images/social/phone (1).svg"
+      "image": "images/social/Phone (1).svg"
     },
 	{
       "name": "Whatsapp",
@@ -38,7 +38,7 @@
 	,
 	{
       "name": "Share",
-      "url": "whatsapp://send?text=www.sckad.com"
+      "onclick": "window.open('https://www.sckad.com/share?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank')",
       "image": "images/social/share.svg"
     }
   ]
