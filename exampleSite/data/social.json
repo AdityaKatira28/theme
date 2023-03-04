@@ -40,6 +40,26 @@
       "name": "Share",
       "onclick": "share()",
       "image": "images/social/share.svg"
+    },
+	{
+	  "name": "Share",
+      
+      "image": "images/social/share.svg"
+	  "title": "SCKad",
+	  "description": "Engineering Design Services.",
+	  "url": "https://www.sckad.com/",
+      "share": {
+    "twitter": {
+      "url": "https://twitter.com/intent/tweet?url=https://www.sckad.com"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.sckad.com"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.sckad.com"
     }
+  }
+}
+
   ]
 }
