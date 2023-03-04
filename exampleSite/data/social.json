@@ -38,7 +38,7 @@
 	,
 	{
       "name": "Share",
-      "href": "whatsapp://send?text=http://www.sckad.com"
+      "url": "whatsapp://send?text=http://www.sckad.com"
       "image": "images/social/share.svg"
     },
 
