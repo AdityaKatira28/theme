@@ -36,10 +36,9 @@
       "image": "images/social/youtube.svg"
     },
 	{
-      "name": "Share",
-      "onclick": "navigator.share({ title: 'SCKad', url: 'https://SCKad.com' })",
-      "image": "images/social/share.svg"
-    }
-
+	"name": "Share",
+	"onclick": "navigator.share({ title: '{{ .Title }}', url: '{{ .Permalink }}' })",
+	"image": "images/social/share.svg"
+	}
   ]
 }
