@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/writer.jpeg
+image: images/about.webp
 url: "about"
 menu:
   main:
