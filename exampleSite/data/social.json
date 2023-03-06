@@ -37,10 +37,8 @@
     },
 	{
       "name": "Share",
-      #"onclick": "share()",
-	  "url": "{{ partial "share.html" }}"
-
-      "image": "images/social/share.svg"
+      "onclick": "share()",
+	  "image": "images/social/share.svg"
     }
   ]
 }
