@@ -1,5 +1,6 @@
 ---
-title: "Projects"
+title: 'About'
+url: "projects"
 menu:
   main:
     name: "Projects"
