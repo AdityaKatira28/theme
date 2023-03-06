@@ -37,7 +37,7 @@
     },
 	{
       "name": "Share",
-      "onclick": "if (navigator.share) { navigator.share({ title: '{{ .Title }}', url: '{{ .Permalink }}' }) } else { window.open('{{ .Permalink }}') }",
+      "onclick": "navigator.share({ title: '{{ .Title }}', url: '{{ .Permalink }}' }) }",
       "image": "images/social/share.svg"
     }
   ]
