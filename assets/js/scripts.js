@@ -10,3 +10,4 @@ if (menuTrigger !== null) {
     body.classList.toggle('lock-scroll');
   });
 }
+

@@ -1,9 +1,10 @@
+<script src="{{ .Site.BaseURL }}js/share.js"></script>
 {
   "links": [
 	{
       "name": "Phone",
       "url": "tel:+918780903006",
-      "image": "images/social/call2.svg"
+      "image": "images/social/Phone (1).svg"
     },
 	{
       "name": "Whatsapp",
@@ -34,8 +35,7 @@
       "name": "YouTube",
       "url": "https://youtube.com/@sckadcadservices6608",
       "image": "images/social/youtube.svg"
-    }
-	,
+    },
 	{
       "name": "Share",
       "onclick": "window.open('{{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank')",
