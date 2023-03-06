@@ -1,4 +1,4 @@
-
+<script src="{{ .Site.BaseURL }}js/share.js"></script>
 {
   "links": [
 	{
