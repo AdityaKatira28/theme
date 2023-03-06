@@ -37,7 +37,7 @@
     },
 	{
 	"name": "Share",
-	"onclick": "navigator.share({ title: '{{ .Title }}', url: '{{ .Permalink }}' })",
+	"onclick": "navigator.share({ title: 'SCKad', url: 'https://sckad.com' })",
 	"image": "images/social/share.svg"
 	}
   ]
