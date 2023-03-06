@@ -24,13 +24,19 @@ We positively support industries by products, services and solutions that delive
 
 1. Delivering
 
-Our actions speak louder than words. We are accountable : doing what we say we're going to do efficiently and on time.
+>Our actions speak louder than words. We are accountable : doing what we say we're going to do efficiently and on time.
 
 2. Winning
 
-We act with confidence, we're proud to win. We push ourselves to greater heights, and we don't settle for less than being the best.
+>We act with confidence, we're proud to win. We push ourselves to greater heights, and we don't settle for less than being the best.
 
 3. Solutions
 
-We listen to our customers and understand their needs. We offer products, service and innovative thinking that enable our customers to achieve success.
+>We listen to our customers and understand their needs. We offer products, service and innovative thinking that enable our customers to achieve success.
 
+
+## Our Strategies
+
+We aim to hold a number one or number two position in the geographies and product categories where 3d cad center chooses to operate. 
+We compare ourselves with the best competitors in each product category in each geographic market 
+and aim to perform better or in line with the best competitor.
