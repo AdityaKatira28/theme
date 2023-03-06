@@ -38,7 +38,7 @@
     },
 	{
       "name": "Share",
-      "onclick": "share()",
+      "url": "{{ partial 'share-buttons.html' . }}",
 	  "image": "images/social/share.svg"
     }
   ]
