@@ -3,7 +3,7 @@
 	{
       "name": "Phone",
       "url": "tel:+918780903006",
-      "image": "images/social/Phone (1).svg"
+      "image": "images/social/call2.svg"
     },
 	{
       "name": "Whatsapp",
@@ -34,11 +34,12 @@
       "name": "YouTube",
       "url": "https://youtube.com/@sckadcadservices6608",
       "image": "images/social/youtube.svg"
-    },
+    }
+	,
 	{
-	"name": "Share",
-	"onclick": "navigator.share({ title: 'SCKad', url: 'https://sckad.com' })",
-	"image": "images/social/share.svg"
-	}
+      "name": "Share",
+      "onclick": "window.open('https://www.sckad.com/share?url={{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank')",
+      "image": "images/social/share.svg"
+    }
   ]
 }
