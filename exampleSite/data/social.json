@@ -38,14 +38,7 @@
 	,
 	{
       "name": "Share",
-	  "action": {
-    "type": "navigator.share",
-    "options": {
-      "url": "{{ .Permalink }}",
-      "title": "{{ .Title }}"
-    }
-  }
-      #"onclick": "window.open('{{ .Permalink | urlize }}&text={{ .Title | urlize }}', '_blank')",
+	  "onclick": "navigator.share('{{ .Permalink | urlize }}&text={{ .Title | urlize }}')",
       "image": "images/social/share.svg"
     }
   ]
