@@ -49,8 +49,7 @@ function share() {
       "name": "YouTube",
       "url": "https://youtube.com/@sckadcadservices6608",
       "image": "images/social/youtube.svg"
-    }
-	,
+    },
 	{
       "name": "Share",
       "onclick": "share()",
