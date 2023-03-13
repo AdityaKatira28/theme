@@ -10,42 +10,42 @@ menu:
 
 <div class="grid-container">
   <div class="grid-item">
-    <img src="/images/image1.jpeg" alt="Image 1">
+    <img src="/images/1.avif" alt="Image 1">
     <h2>Name 1</h2>
     <p>Details about Name 1</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image2.jpeg" alt="Image 2">
+    <img src="/images/2.avif" alt="Image 2">
     <h2>Name 2</h2>
     <p>Details about Name 2</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image3.jpeg" alt="Image 3">
+    <img src="/images/3.avif" alt="Image 3">
     <h2>Name 3</h2>
     <p>Details about Name 3</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image4.jpeg" alt="Image 4">
+    <img src="/images/4.avif" alt="Image 4">
     <h2>Name 4</h2>
     <p>Details about Name 4</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image5.jpeg" alt="Image 5">
+    <img src="/images/5.avif" alt="Image 5">
     <h2>Name 5</h2>
     <p>Details about Name 5</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image6.jpeg" alt="Image 6">
+    <img src="/images/6.avif" alt="Image 6">
     <h2>Name 6</h2>
     <p>Details about Name 6</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image1.jpeg" alt="Image 7">
+    <img src="/images/7.avif" alt="Image 7">
     <h2>Name 7</h2>
     <p>Details about Name 7</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image2.jpeg" alt="Image 8">
+    <img src="/images/8.avif" alt="Image 8">
     <h2>Name 8</h2>
     <p>Details about Name 8</p>
   </div>
