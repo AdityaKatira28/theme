@@ -50,24 +50,24 @@ menu:
     <p>Manufacture metal parts using powder bed fusion to reduce material wastage and cost.</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image3.jpeg" alt="Image 9">
-    <h2>Name 9</h2>
-    <p>Details about Name 9</p>
+    <img src="/images/9.avif" alt="Image 9">
+    <h2>Flexible 3D CAD</h2>
+    <p>Fusion 360 enables you to explore many iterations quickly with easy-to-use cloud CAD software.</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image4.jpeg" alt="Image 10">
-    <h2>Name 10</h2>
-    <p>Details about Name 10</p>
+    <img src="/images/10.avif" alt="Image 10">
+    <h2>Integrated CAD/CAM</h2>
+    <p>Produce high-quality CNC machined parts, and additively manufacture builds using FFF or PBF for metal 3D printing.</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image5.jpeg" alt="Image 11">
-    <h2>Name 11</h2>
-    <p>Details about Name 11</p>
+    <img src="/images/11.avif" alt="Image 11">
+    <h2>Unified PCB design</h2>
+    <p>Gain all the advantages of a full-featured schematic capture, electronics design, and mechanical CAD with Fusion 360.</p>
   </div>
   <div class="grid-item">
-    <img src="/images/image6.jpeg" alt="Image 12">
-    <h2>Name 12</h2>
-    <p>Details about Name 12</p>
+    <img src="/images/12.avif" alt="Image 12">
+    <h2>Instant-on data management</h2>
+    <p>Use integrated cloud collaboration tools to bring teams together and manage product data.</p>
   </div>
 </div>
 
