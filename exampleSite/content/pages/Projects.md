@@ -11,43 +11,43 @@ menu:
 <div class="grid-container">
   <div class="grid-item">
     <img src="/images/1.avif" alt="Image 1">
-    <h2>Name 1</h2>
-    <p>Details about Name 1</p>
+    <h2>Machining Extension</h2>
+    <p>Advanced manufacturing tools, include 3 to 5-axis strategies, toolpath optimization, and process automation.</p>
   </div>
   <div class="grid-item">
     <img src="/images/2.avif" alt="Image 2">
-    <h2>Name 2</h2>
-    <p>Details about Name 2</p>
+    <h2>Nesting & Fabrication Extension</h2>
+    <p>Create optimized and associative multi-sheet layouts for sheet metal and non-sheet metal parts automation.</p>
   </div>
   <div class="grid-item">
     <img src="/images/3.avif" alt="Image 3">
-    <h2>Name 3</h2>
-    <p>Details about Name 3</p>
+    <h2>Simulation Extension</h2>
+    <p>Get unlimited access to cloud solves. Use structural, thermal, explicit, and injection molding simulations.</p>
   </div>
   <div class="grid-item">
     <img src="/images/4.avif" alt="Image 4">
-    <h2>Name 4</h2>
-    <p>Details about Name 4</p>
+    <h2>Generative Design Extension</h2>
+    <p>Explore unlimited generative designs. Optimize for specific materials and manufacturing techniques.</p>
   </div>
   <div class="grid-item">
     <img src="/images/5.avif" alt="Image 5">
-    <h2>Name 5</h2>
-    <p>Details about Name 5</p>
+    <h2>Signal Integrity Extension</h2>
+    <p>Optimize PCB design electromagnetic performance by controlling the impedance of every critical transmission line.</p>
   </div>
   <div class="grid-item">
     <img src="/images/6.avif" alt="Image 6">
-    <h2>Name 6</h2>
-    <p>Details about Name 6</p>
+    <h2>Product Design Extension</h2>
+    <p>Easily create complex geometry to enhance the performance and aesthetics of your products.</p>
   </div>
   <div class="grid-item">
     <img src="/images/7.avif" alt="Image 7">
-    <h2>Name 7</h2>
-    <p>Details about Name 7</p>
+    <h2>Manage Extension</h2>
+    <p>Execute change orders, release management, automated part numbering, and bill of materials management.</p>
   </div>
   <div class="grid-item">
     <img src="/images/8.avif" alt="Image 8">
-    <h2>Name 8</h2>
-    <p>Details about Name 8</p>
+    <h2>Additive Build Extension</h2>
+    <p>Manufacture metal parts using powder bed fusion to reduce material wastage and cost.</p>
   </div>
   <div class="grid-item">
     <img src="/images/image3.jpeg" alt="Image 9">
