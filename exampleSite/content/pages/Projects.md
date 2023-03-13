@@ -75,7 +75,7 @@ menu:
   .grid-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-gap: 30px;
   }
   
     @media only screen and (max-width: 600px) {
